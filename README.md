@@ -8,7 +8,7 @@ Com o seu Arduino conectado ao PC, você conseguirá apagar ou acender leds, dir
 
 <a href="googler.com"> Servidor em NODEJS </a>
 
-<a href="googler.com">Arduino Standard Firmat</a>
+<a href="googler.com">Arduino Standard Firmata</a>
 
 ![alt tag](https://github.com/LucasSoaress/LedsArduinoNodeJS/blob/master/Image/esquema.PNG)
 
